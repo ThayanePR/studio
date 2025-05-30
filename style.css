@@ -28,8 +28,8 @@ nav{
 nav a {
     text-decoration: none;
     color:#c2a86c;
-padding:10px;
-margin:8px;
+padding: 8px;
+margin:5px;
 
 }
 nav a:hover{
@@ -189,7 +189,7 @@ left: 10%;
         width: 200px;
         margin: auto;
         padding: 20px;
-        left: 30%;
+        left: 20%;
         position: relative;
         margin: 20px;
         text-align: center;
