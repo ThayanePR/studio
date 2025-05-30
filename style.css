@@ -1,0 +1,196 @@
+@charset "UTF-8";
+
+body{
+  background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ 
+header{
+background-color: #fffcf5;
+text-align: center;
+margin: auto;
+}
+header img {
+    width:220px;
+    margin: auto;
+    text-align: center;
+
+}
+nav{
+    text-align: center;
+    text-decoration: none;
+    padding: 17px;
+    margin: auto;
+    background-color: rgba(78, 46, 5, 0.055);
+    border-radius: 10px;
+    
+}
+nav a {
+    text-decoration: none;
+    color:#c2a86c;
+padding:10px;
+margin:8px;
+
+}
+nav a:hover{
+    color: rgb(187, 109, 7);
+    background-color:rgba(78, 46, 5, 0.726); 
+}
+main{
+    padding: 20px;
+margin: 20px;
+margin: auto;
+
+
+
+}
+main h1{
+    font-size: 3vw;
+    text-align: center;
+    color: rgb(194, 137, 62);
+    background-color: rgba(255, 255, 255, 0.425);
+}
+main p{
+    font-size: 2vw;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.425);
+    
+}
+article{
+    background-image: url('imagem/unha1.JPEG');
+    background-attachment: fixed;
+ 
+    width: 80vw;
+    height: 12vw;
+    
+    box-shadow: inset 2 2 2 rgba(0, 0, 0, 0.692);
+    
+padding: 20px;
+margin: 20px;
+    background-color: transparent;
+    padding: auto;
+    margin: auto;
+}
+
+article p {
+    margin: auto;
+   font-size: 2vw;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.507); 
+    padding: 5px; 
+
+}
+section a:hover{
+        color: rgba(78, 46, 5, 0.726);
+    }
+section {
+    background-color: rgba(255, 255, 255, 0.726);
+    padding: auto;
+margin: auto;}
+section h1{
+    margin: auto;
+    text-align: center;
+    color: rgb(194, 137, 62);
+    padding: 20px;
+    margin: 30px;
+    font-size: 3em;
+}
+section img{
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+section h2{
+    color: rgb(194, 137, 62);
+    font-size: 3vw;
+    text-align: center;
+
+}
+section p{
+    font-size: 2vw;
+text-align: center;
+}
+section a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+section h2 {
+    text-align: center;
+}
+section ul{
+background-image:url(imagem/unha10.JPEG);
+background-position: bottom;
+background-attachment: fixed;
+height: 50%
+padding: auto;
+margin: auto;
+text-align: left;
+background-color: rgba(255, 255, 255, 0.589);
+font-size: 2em;
+padding: 20px;
+box-shadow: inset 5 5 0 rgba(0, 0, 0, 0.589);
+list-style-position: inside;
+}
+section ul li {
+    padding: auto;
+margin: auto;
+text-align: left;
+background-color: rgba(255, 255, 255, 0.589);
+list-style-position:inside
+}
+    footer {
+        color: white;
+        background-color: rgba(173, 128, 4, 0.685);
+        font-size: 18px;
+        text-align: center;
+        margin: auto;
+        padding: 20px;
+        margin: 20px;
+    }
+    footer a {
+        text-decoration: none;
+        color: white;
+    }
+    footer a:hover{
+        color: rgb(43, 25, 2);
+        text-decoration: underline;
+    }
+    iframe{
+left: 10%;
+        height: 100%;
+        width: 80%;
+        
+        padding: 10px;
+        margin: 10px;
+        position:relative;
+        
+
+    }
+    div h1{
+         font-size: 3vw;
+    text-align: center;
+    color: rgb(194, 137, 62);
+    background-color: rgba(255, 255, 255, 0.425);
+
+    }
+    div h2{
+         font-size: 2.5vw;
+    text-align: center;
+    color: rgb(194, 137, 62);
+    background-color: rgba(255, 255, 255, 0.425);
+    }
+    div p{
+         font-size: 2vw;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.425);
+    }
+    div img {
+        width: 200px;
+        margin: auto;
+        padding: 20px;
+        left: 30%;
+        position: relative;
+        margin: 20px;
+        text-align: center;
+    }
